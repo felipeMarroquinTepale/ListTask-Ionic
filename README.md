@@ -1,1 +1,1 @@
-https://tasksup.netlify.app/home
+https://tasksup.netlify.app
