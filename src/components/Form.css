@@ -1,0 +1,17 @@
+.card_input{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.card_input .helper-text{
+    color: red !important;
+    font-weight: bold;
+}
+
+.label-select{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: red;
+    margin-top: 4px;
+    font-weight: bold;
+}
